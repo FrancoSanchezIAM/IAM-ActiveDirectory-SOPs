@@ -5,7 +5,9 @@ Laboratorio práctico de Identity & Access Management (IAM) utilizando Windows S
 
  Contenido del repositorio
 - SOP_Offboarding_AD.md: Procedimiento estándar para deshabilitar usuarios (offboarding)
-- (próximamente) Reportes en PowerShell, scripts de automatización, etc.
+- Scripts/: Automatización de onboarding con PowerShell
+- EntraID/: Prácticas con Microsoft Entra ID (Azure AD) y PowerShell
+- (próximamente) Reportes en PowerShell, auditorías, etc.
 
  Tecnologías utilizadas
 - Windows Server 2025
